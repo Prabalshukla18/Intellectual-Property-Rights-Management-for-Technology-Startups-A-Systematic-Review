@@ -1,0 +1,13 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+pydantic==2.7.1
+python-multipart==0.0.9
+scikit-learn==1.4.2
+numpy==1.26.4
+
+# Optional — install for better performance:
+# sentence-transformers==2.7.0
+# faiss-cpu==1.8.0
+# PyMuPDF==1.24.3
+# Pillow==10.3.0
+# imagehash==4.3.1
